@@ -23,8 +23,6 @@ We will use a B&amp;R "ArSim" simulated plc so there is no license required.
 
 ## 2. Create a new project with 'ArSim'
 
-(nothing special e.g. as you are used to)
-
 [![02](http://img.youtube.com/vi/AiyE6XDUEtA/0.jpg)](http://www.youtube.com/watch?v=AiyE6XDUEtA)
 
 ## 3. Insert a Mapp View Visualization into Logical View
@@ -45,7 +43,7 @@ we will use the following layout:
 
 ## 5. insert pages and contents
 
-1. insert 'Navigation.content" into 'AreaContens'
+1. insert 'Navigation.content" into 'AreaContents'
 2. insert 'Page1' and add 'Page1Content' to it
 3. insert 'Page2' and add 'Page2Content' to it
 
