@@ -1,3 +1,5 @@
+[![Made For B&R](https://github.com/hilch/BandR-badges/blob/main/Made-For-BrAutomation.svg)](https://www.br-automation.com)
+
 # Getting started with B&R mapp view
 
 
